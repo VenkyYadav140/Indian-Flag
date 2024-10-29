@@ -35,6 +35,7 @@ h1{
     margin:auto;
     border-style: solid;
     border-color: blue;
+    border-width: 2px;
 }
 #first{
     list-style-type: none;
